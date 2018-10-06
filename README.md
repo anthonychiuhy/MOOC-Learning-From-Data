@@ -1,4 +1,4 @@
-# Machine-Learning
+# MOOC-Learning-From-Data
 My first intro to Machine Learning online course MOOC (Learning From Data) from Caltech.
 
 All my codes created to get the answers to the problem sets problems can be found here.
