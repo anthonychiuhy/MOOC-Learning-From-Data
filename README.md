@@ -1,7 +1,7 @@
 # MOOC-Learning-From-Data
 My first introdution to Machine Learning online course MOOC (Learning From Data) from Caltech.
 
-All my coding to generate solutions to the problem set problems can be found here.
+All my codings to generate solutions to the problem set problems can be found here.
 
 My codes are written in Python, mostly using Numpy.
 
